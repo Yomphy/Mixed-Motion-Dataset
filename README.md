@@ -19,7 +19,7 @@ This dataset is intended for research purposes only, specifically for the evalua
 
 ### How to Access
 
-1. **Fill out the request form**: To access the dataset, please fill out the [EULA](./End User License Agreement.pdf), detailing your research goals and planned use.
+1. **Fill out the request form**: To access the dataset, please fill out the [EULA](./End_User_License_Agreement.pdf), detailing your research goals and planned use.
 2. **Approval**: After reviewing your request, access will be granted along with a download link.
 3. **Attribution**: Please cite the following reference if you use this dataset in your research:
 
