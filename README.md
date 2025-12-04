@@ -8,11 +8,9 @@ This dataset contains videos captured under mixed motion scenarios, including st
   - Stationary
   - Walking
   - Running
-- **Video Format**: MP4
+- **Video Format**: AVI
 - **Resolution**: 1280x720
 - **Frame Rate**: 30 FPS
-- **Number of Videos**: [Insert number of videos]
-- **Subjects**: [Insert number of subjects, e.g., "10 subjects, 5 males and 5 females"]
 - **Annotation**: The dataset includes synchronized rPPG signals, derived from videos with corresponding ground truth heart rate data.
 
 ## Usage Policy
