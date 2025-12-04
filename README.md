@@ -27,7 +27,7 @@ This dataset is intended for research purposes only, specifically for the evalua
 
 ## License
 
-The dataset is released under the [insert license name, e.g., MIT License]. By downloading and using the dataset, you agree to adhere to the terms specified in the license.
+The dataset is released under the [Apache License 2.0]. By downloading and using the dataset, you agree to adhere to the terms specified in the license.
 
 ## Contact
 
