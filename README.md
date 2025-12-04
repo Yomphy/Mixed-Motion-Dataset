@@ -25,9 +25,6 @@ This dataset is intended for research purposes only, specifically for the evalua
 
    **Citation**: [Insert citation information here]
 
-## License
-
-The dataset is released under the [Apache License 2.0]. By downloading and using the dataset, you agree to adhere to the terms specified in the license.
 
 ## Contact
 
