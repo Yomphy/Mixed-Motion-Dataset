@@ -8,7 +8,7 @@ This dataset contains videos captured under mixed motion scenarios, including st
   - Stationary
   - Walking
   - Running
-- **Device And Settings:
+- **Device And Settings**:
   
 Six recordings were acquired using an Intel RealSense D415 at 640 x 480 pixels and 30 fps, whereas two recordings were acquired using an iPhone at 1280 x 720 pixels and approximately 30 fps from a slightly different camera viewpoint.
 - **Annotation**: The dataset includes synchronized rPPG signals, derived from videos with corresponding ground truth heart rate data.
